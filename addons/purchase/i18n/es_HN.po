@@ -534,17 +534,17 @@ msgstr ""
 #: view:purchase.order:purchase.purchase_order_form
 #: selection:purchase.order,state:0
 msgid "Bid Received"
-msgstr ""
+msgstr "Cotización Recibida"
 
 #. module: purchase
 #: field:purchase.order,bid_date:0
 msgid "Bid Received On"
-msgstr ""
+msgstr "Cotización Recibida en"
 
 #. module: purchase
 #: field:purchase.order,bid_validity:0
 msgid "Bid Valid Until"
-msgstr ""
+msgstr "Cotización válida hasta"
 
 #. module: purchase
 #: code:addons/purchase/purchase.py:1160 code:addons/purchase/stock.py:179
