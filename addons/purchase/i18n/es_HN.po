@@ -1637,7 +1637,7 @@ msgstr ""
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
 msgid "RFQ & Bid"
-msgstr ""
+msgstr "SdC y Cotizaciones"
 
 #. module: purchase
 #: model:mail.message.subtype,name:purchase.mt_rfq_approved
