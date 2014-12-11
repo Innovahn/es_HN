@@ -1401,7 +1401,7 @@ msgstr ""
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
 msgid "Print RFQ"
-msgstr ""
+msgstr "Imprimir SdC"
 
 #. module: purchase
 #: model:ir.model,name:purchase.model_procurement_order
@@ -1673,12 +1673,12 @@ msgstr ""
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
 msgid "Re-Print RFQ"
-msgstr ""
+msgstr "Reimprimir SdC"
 
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
 msgid "Re-Send RFQ by Email"
-msgstr ""
+msgstr "Enviar SdC por email"
 
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
