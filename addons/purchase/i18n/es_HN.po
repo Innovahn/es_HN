@@ -794,7 +794,7 @@ msgstr ""
 #: field:purchase.order.line,name:0 view:website:purchase.report_purchaseorder
 #: view:website:purchase.report_purchasequotation
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #. module: purchase
 #: field:purchase.order,location_id:0 field:purchase.report,location_id:0
@@ -1609,7 +1609,7 @@ msgstr ""
 #: view:website:purchase.report_purchaseorder
 #: view:website:purchase.report_purchasequotation
 msgid "Qty"
-msgstr ""
+msgstr "Cantidad"
 
 #. module: purchase
 #: field:purchase.order.line,product_qty:0
@@ -1743,7 +1743,7 @@ msgstr ""
 #: selection:purchase.report,state:0
 #: view:website:purchase.report_purchasequotation
 msgid "Request for Quotation"
-msgstr "Cotizaciones"
+msgstr "Cotización"
 
 #. module: purchase
 #: view:website:purchase.report_purchaseorder
