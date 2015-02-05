@@ -256,7 +256,7 @@ msgstr ""
 #. module: account
 #: view:website:account.report_generalledger
 msgid ": General ledger"
-msgstr ""
+msgstr "Libro Mayor"
 
 #. module: account
 #: view:website:account.report_trialbalance
