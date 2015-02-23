@@ -1513,7 +1513,7 @@ msgstr ""
 #. module: purchase
 #: view:website:purchase.report_purchaseorder
 msgid "Purchase Order Confirmation N°"
-msgstr ""
+msgstr "Orden de compra N° "
 
 #. module: purchase
 #: field:account.invoice.line,purchase_line_id:0
