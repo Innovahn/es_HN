@@ -222,7 +222,7 @@ msgstr ""
 #. module: purchase
 #: field:res.partner,purchase_order_count:0
 msgid "# of Purchase Order"
-msgstr ""
+msgstr "# de Orden de Compra"
 
 #. module: purchase
 #: model:email.template,subject:purchase.email_template_edi_purchase
@@ -335,6 +335,19 @@ msgid ""
 "              </p>\n"
 "            "
 msgstr ""
+"<p class=\"oe_view_nocontent_create\">\n"
+"                Pulse para crear una solicitud de cotización.\n"
+"              </p><p>\n"
+"                La cotización contiene el historial de negociación/"
+"discusión\n"
+"                que ha tenido con su proveedor. Una vez confirmada, la solicitud\n"
+"                se convierte en una orden de compra.\n"
+"              </p><p>\n"
+"                La mayoría de ordenes de compra son creadas automáticamente "
+"automatically\n"
+"                por Odoo basado en las necesidades de inventario.\n"
+"              </p>\n"
+"            "
 
 #. module: purchase
 #: model:ir.actions.act_window,help:purchase.action_invoice_pending
@@ -833,7 +846,7 @@ msgstr ""
 #: code:addons/purchase/purchase.py:1366
 #, python-format
 msgid "Draft Purchase Order created"
-msgstr ""
+msgstr "Orden de compra borrador creada"
 
 #. module: purchase
 #: code:addons/purchase/edi/purchase_order.py:132
@@ -1163,7 +1176,7 @@ msgstr ""
 #. module: purchase
 #: model:ir.actions.act_window,name:purchase.action_view_purchase_order_group
 msgid "Merge Purchase orders"
-msgstr ""
+msgstr "Unir ordenes de compra"
 
 #. module: purchase
 #: view:purchase.order.group:purchase.view_purchase_order_group
@@ -1508,12 +1521,12 @@ msgstr ""
 #: view:purchase.order:purchase.purchase_order_tree
 #: model:res.request.link,name:purchase.req_link_purchase_order
 msgid "Purchase Order"
-msgstr ""
+msgstr "Orden de Compra"
 
 #. module: purchase
 #: view:website:purchase.report_purchaseorder
 msgid "Purchase Order Confirmation N°"
-msgstr "Orden de compra N° "
+msgstr "Orden de Compra N° "
 
 #. module: purchase
 #: field:account.invoice.line,purchase_line_id:0
@@ -1549,7 +1562,7 @@ msgstr ""
 #: view:purchase.report:purchase.view_purchase_order_search
 #, python-format
 msgid "Purchase Orders"
-msgstr ""
+msgstr "Ordenes de compra"
 
 #. module: purchase
 #: view:purchase.report:purchase.view_purchase_order_graph
@@ -1678,7 +1691,7 @@ msgstr "Reimprimir SdC"
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
 msgid "Re-Send RFQ by Email"
-msgstr "Enviar SdC por email"
+msgstr "Re-enviar SdC por email"
 
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
@@ -1801,12 +1814,12 @@ msgstr ""
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
 msgid "Send PO by Email"
-msgstr ""
+msgstr "Enviar OC por e-mail"
 
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
 msgid "Send RFQ by Email"
-msgstr ""
+msgstr "Enviar solicitud de cotización por e-mail"
 
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
