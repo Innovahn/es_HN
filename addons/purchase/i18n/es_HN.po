@@ -1313,7 +1313,7 @@ msgstr ""
 #. module: purchase
 #: view:website:purchase.report_purchaseorder
 msgid "Our Order Reference:"
-msgstr ""
+msgstr "Referencia interna"
 
 #. module: purchase
 #: model:ir.model,name:purchase.model_mail_mail
