@@ -2202,4 +2202,4 @@ msgstr ""
 #. module: purchase
 #: view:website:purchase.report_purchaseorder
 msgid "Your Order Reference"
-msgstr ""
+msgstr "Su referencia"
