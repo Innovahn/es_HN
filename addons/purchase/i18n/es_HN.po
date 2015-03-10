@@ -778,13 +778,13 @@ msgstr ""
 #: code:addons/purchase/purchase.py:546
 #, python-format
 msgid "Define an expense account for this product: \"%s\" (id:%d)."
-msgstr ""
+msgstr "Defina una cuenta de gasto para el producto: \"%s\" (id:%d)."
 
 #. module: purchase
 #: code:addons/purchase/purchase.py:590
 #, python-format
 msgid "Define purchase journal for this company: \"%s\" (id:%d)."
-msgstr ""
+msgstr "Defina un diario de compras para la compañia: \"%s\" (id:%d)."
 
 #. module: purchase
 #: field:purchase.order,picking_type_id:0
